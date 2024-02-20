@@ -1,0 +1,7 @@
+#Mon Jan 15 15:49:08 PKT 2024
+base.0=E\:\\projects\\reduxnew\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=E\:\\projects\\reduxnew\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
